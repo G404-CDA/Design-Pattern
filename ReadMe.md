@@ -37,7 +37,7 @@ Pour commencer notre parcours, nous examinerons quelques patterns individuelleme
 
 - **[Builder](https://docs.google.com/presentation/d/10T4pWhrGmd4hTfCDSh2WcZhkWpCc1Ets5ggdOkrQd0A)**
 
-- **[Factory](https://docs.google.com/presentation/d/1rwN4G6l01GGXPXL3OjHB2pOPetLCr2hyCWLxbfKs6Vw)**
+- **[Factory](https://docs.google.com/presentation/d/1pxTjFeULbp52ldU4ibZkpD2Fqj0KsVS3r8-7QgAo4O4)**
 
 ### Structural Pattern
 
